@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+ortools
+sqlalchemy
+psycopg2-binary
+pydantic
+python-dotenv
